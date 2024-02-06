@@ -42,7 +42,7 @@
   			{
   				"id":"2",
   				"name":"1 B",
-  				"img":"images/negro.jpg"
+  				"img":"images/puerta1.jpg"
   			},
   			{
   				"id":"3",
@@ -52,12 +52,12 @@
   			{
   				"id":"4",
   				"name":"2 A",
-  				"img":"images/negro.jpg"
+  				"img":"images/puerta2.jpg"
   			},
   			{
   				"id":"5",
   				"name":"2 B",
-  				"img":"images/negro.jpg"
+  				"img":""
   			},
   			{
   				"id":"6",
@@ -67,7 +67,7 @@
         		{
   				"id":"7",
   				"name":"3 A",
-  				"img":""
+  				"img":"images/puerta3.jpg"
   			},
         		{
   				"id":"8",
@@ -77,7 +77,7 @@
         		{
   				"id":"9",
   				"name":"3 C",
-  				"img":"images/negro.jpg"
+  				"img":""
   			}
       		]
   	},
@@ -119,27 +119,27 @@
   			{
   				"id":"1",
   				"name":"Burguer King",
-  				"img":""
+  				"img":"images/burguerking.png"
   			},
   			{
   				"id":"2",
   				"name":"Mc Donald's",
-  				"img":"images/negro.jpg"
+  				"img":""
   			},
   			{
   				"id":"3",
   				"name":"Mercado Libre",
-  				"img":""
+  				"img":"images/mercadoLibre.png"
   			},
   			{
   				"id":"4",
   				"name":"Correo Argentino",
-  				"img":"images/negro.jpg"
+  				"img":"images/correoArgentino.png"
   			},
   			{
   				"id":"5",
   				"name":"Fed Ex",
-  				"img":"images/negro.jpg"
+  				"img":""
   			},
   			{
   				"id":"6",
