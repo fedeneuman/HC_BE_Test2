@@ -1,0 +1,153 @@
+{
+	"edificios": {
+    "1" : {
+		  "name": "Edificio Inteligente",
+		  "availability_open": {
+			  "sunday":{
+				  "open": "00:00",
+				  "closed": "23:59"
+			  },
+  			"monday":{
+  				"open": "00:00",
+  				"closed": "23:59"
+  			},
+  			"tuesday":{
+  				"open": "00:00",
+  				"closed": "23:59"
+  			},
+  			"wednesday":{
+  				"open": "00:00",
+  				"closed": "23:59"
+  			},
+  			"thursday":{
+  				"open": "00:00",
+  				"closed": "23:59"
+  			},
+  			"friday":{
+  				"open": "00:00",
+  				"closed": "23:59"
+  			},
+  			"saturday":{
+  				"open": "00:00",
+  				"closed": "23:59"
+  			}
+  		},
+  		"notes": true,
+  		"photo": true,
+  		"places": [
+  			{
+  				"id":"1",
+  				"name":"1 A",
+  				"img":""
+  			},
+  			{
+  				"id":"2",
+  				"name":"1 B",
+  				"img":"images/negro.jpg"
+  			},
+  			{
+  				"id":"3",
+  				"name":"1 C",
+  				"img":""
+  			},
+  			{
+  				"id":"4",
+  				"name":"2 A",
+  				"img":"images/negro.jpg"
+  			},
+  			{
+  				"id":"5",
+  				"name":"2 B",
+  				"img":"images/negro.jpg"
+  			},
+  			{
+  				"id":"6",
+  				"name":"2 C",
+  				"img":""
+  			},
+        {
+  				"id":"7",
+  				"name":"3 A",
+  				"img":""
+  			},
+        {
+  				"id":"8",
+  				"name":"3 B",
+  				"img":""
+  			},
+        {
+  				"id":"9",
+  				"name":"3 C",
+  				"img":"images/negro.jpg"
+  			}
+      ]
+  	},
+    "2" : {
+		  "name": "Parque Empresarial Aeropuerto",
+		  "availability_open": {
+			  "sunday":{
+				  "open": "00:00",
+				  "closed": "23:59"
+			  },
+  			"monday":{
+  				"open": "00:00",
+  				"closed": "23:59"
+  			},
+  			"tuesday":{
+  				"open": "00:00",
+  				"closed": "23:59"
+  			},
+  			"wednesday":{
+  				"open": "00:00",
+  				"closed": "23:59"
+  			},
+  			"thursday":{
+  				"open": "00:00",
+  				"closed": "23:59"
+  			},
+  			"friday":{
+  				"open": "00:00",
+  				"closed": "23:59"
+  			},
+  			"saturday":{
+  				"open": "00:00",
+  				"closed": "23:59"
+  			}
+  		},
+  		"notes": false,
+  		"photo": true,
+  		"places": [
+  			{
+  				"id":"1",
+  				"name":"Burguer King",
+  				"img":""
+  			},
+  			{
+  				"id":"2",
+  				"name":"Mc Donald's",
+  				"img":"images/negro.jpg"
+  			},
+  			{
+  				"id":"3",
+  				"name":"Mercado Libre",
+  				"img":""
+  			},
+  			{
+  				"id":"4",
+  				"name":"Correo Argentino",
+  				"img":"images/negro.jpg"
+  			},
+  			{
+  				"id":"5",
+  				"name":"Fed Ex",
+  				"img":"images/negro.jpg"
+  			},
+  			{
+  				"id":"6",
+  				"name":"Hola-C",
+  				"img":""
+  			}
+      ]
+  	}
+  }
+}
