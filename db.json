@@ -1,3 +1,40 @@
 {
-        "edificio" : {}
+	"edificio": {
+		"name": "Edificio Inteligente",
+                "income_place_id": "00000000-0000-0133-0003-000000000001",
+                "authorizer_user_id": "8fd0a758-f818-4571-8652-0f55427927f3",
+		"notes": false,
+		"places": [
+			{
+				"id":"aaaaaaaaa",
+				"name":"1 A",
+				"img":""
+			},
+			{
+				"id":"bbbbbbbbb",
+				"name":"1 B",
+				"img":""
+			},
+			{
+				"id":"cccccccc",
+				"name":"1 C",
+				"img":""
+			},
+			{
+				"id":"ddddddd",
+				"name":"Hola-C",
+				"img":""
+			},
+			{
+				"id":"eeeeeeee",
+				"name":"Correo Argentino",
+				"img":""
+			},
+			{
+				"id":"ffffffff",
+				"name":"Mercado Libre",
+				"img":"assets/imgs/mercadoLibre.png"
+			}
+		]
+	}
 }
