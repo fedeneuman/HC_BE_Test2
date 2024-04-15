@@ -1,40 +1,42 @@
 {
-	"edificio": {
-		"name": "Edificio Inteligente",
-                "income_place_id": "00000000-0000-0133-0003-000000000001",
-                "authorizer_user_id": "8fd0a758-f818-4571-8652-0f55427927f3",
-		"notes": false,
-		"places": [
+	"41018281": {
+		[
 			{
-				"id":"aaaaaaaaa",
-				"name":"1 A",
-				"img":""
+				"code": 41018281,
+				"name": "Neuman, Federico Martin"
 			},
 			{
-				"id":"bbbbbbbbb",
-				"name":"1 B",
-				"img":""
+				"code": 41018281,
+				"name": "Perez, Juan Martin"
 			},
 			{
-				"id":"cccccccc",
-				"name":"1 C",
-				"img":""
+				"code": 41018281,
+				"name": "Gimenez, Alberto Martin"
 			},
 			{
-				"id":"ddddddd",
-				"name":"Hola-C",
-				"img":""
+				"code": 41018281,
+				"name": "Juarez, Federico Jose"
+			},
+		]
+	},
+	"20874452": {
+		[
+			{
+				"code": 20874452,
+				"name": "Neuman, Roberto Martin"
 			},
 			{
-				"id":"eeeeeeee",
-				"name":"Correo Argentino",
-				"img":""
+				"code": 20874452,
+				"name": "Perez, Juan Martin"
 			},
 			{
-				"id":"ffffffff",
-				"name":"Mercado Libre",
-				"img":"assets/imgs/mercadoLibre.png"
-			}
+				"code": 20874452,
+				"name": "Gimenez, Alberto Martin"
+			},
+			{
+				"code": 20874452,
+				"name": "Juarez, Federico Jose"
+			},
 		]
 	}
 }
