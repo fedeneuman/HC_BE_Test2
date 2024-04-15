@@ -1,6 +1,5 @@
 {
-	"41018281": {
-		[
+	"41018281": [
 			{
 				"code": 41018281,
 				"name": "Neuman, Federico Martin"
@@ -16,11 +15,9 @@
 			{
 				"code": 41018281,
 				"name": "Juarez, Federico Jose"
-			},
-		]
-	},
-	"20874452": {
-		[
+			}
+		],
+	"20874452": [
 			{
 				"code": 20874452,
 				"name": "Neuman, Roberto Martin"
@@ -36,7 +33,6 @@
 			{
 				"code": 20874452,
 				"name": "Juarez, Federico Jose"
-			},
+			}
 		]
-	}
 }
