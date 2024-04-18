@@ -1,37 +1,37 @@
 {
 	"41018281": [
 			{
-				"code": 41018281,
+				"code": "41018281M",
 				"name": "Neuman, Federico Martin"
 			},
 			{
-				"code": 41018281,
+				"code": "41018281F",
 				"name": "Perez, Juan Martin"
 			},
 			{
-				"code": 41018281,
+				"code": "41018281M",
 				"name": "Gimenez, Alberto Martin"
 			},
 			{
-				"code": 41018281,
+				"code": "41018281F",
 				"name": "Juarez, Federico Jose"
 			}
 		],
 	"20874452": [
 			{
-				"code": 20874452,
+				"code": "20874452M",
 				"name": "Neuman, Roberto Martin"
 			},
 			{
-				"code": 20874452,
+				"code": "20874452M",
 				"name": "Perez, Juan Martin"
 			},
 			{
-				"code": 20874452,
+				"code": "20874452M",
 				"name": "Gimenez, Alberto Martin"
 			},
 			{
-				"code": 20874452,
+				"code": "20874452F",
 				"name": "Juarez, Federico Jose"
 			}
 		]
